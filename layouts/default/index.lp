@@ -37,7 +37,8 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#"><%=sailor.conf.app_name%></a>
+            <a class="navbar-brand" href=""><%=sailor.conf.app_name%></a>
+            <br/><a href="https://github.com/Etiene/TweetListing/" target="_blank">View me on github</a>
           </div>
           
         </div>
